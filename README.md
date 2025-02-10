@@ -1,4 +1,4 @@
-```markdown
+
 # Google Play Store Apps and Reviews Analysis
 
 ## Overview
@@ -68,5 +68,4 @@ This project provides valuable insights into Google Play Store apps, their marke
 
 ---
 This README provides an overview of the project and its findings. For more details, refer to the Jupyter Notebook.
-```
 
